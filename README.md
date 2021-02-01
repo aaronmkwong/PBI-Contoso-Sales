@@ -1,2 +1,4 @@
 # PBI-Contoso-Sales
-<video src="PBI_Contoso_Sales.webm" width="320" height="200" controls preload></video>
+<video width="320" height="200" controls preload>
+    <source src="video.webm"></source> 
+</video>
