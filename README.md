@@ -1,5 +1,5 @@
 # PBI-Contoso-Sales
 
-<video poster="PBI_Contoso_Sales_Poster.jpg" width="618" height="347" controls preload> 
-    <source src="PBI_Contoso_Sales.webm"></main> 
+<video width="320" height="200" controls preload> 
+    <source src="video.webm"><https://github.com/aaronmkwong/PBI-Contoso-Sales/blob/main/PBI_Contoso_Sales.webm> 
 </video>
